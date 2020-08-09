@@ -1,6 +1,6 @@
 ### Hi there, I'm Marcos 👋
 
-## I'm an Architech and Urban Planner, and now a developer!
+## I'm an Architect and Urban Planner, and now a developer!
 
 - 🔭 I’m currently working on a my Master's Degree at [GMA- UFSC][gmaufsc]!
 - 🌱 I’m currently learning everything 😅, but mostly Data Science
