@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 😅, but mostly Data Science
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Become a Full Stack Dev
-- 📫 You can reach me through **arq.msansao@gmail.com**
+- 📫 You can reach me through **marcosmsansao@gmail.com**
 - ⚡ Fun fact: **I ❤️️ ☕ + 🎮**
 
 ### Connect with me:
