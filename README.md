@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a my Master's Degree at [GMA - UFSC][gmaufsc]!
 - 🌱 I’m currently learning everything 😅, but mostly Data Science
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Become a Full Stack Dev
+- 🥅 2022 Goals: Become a Full Stack Dev
 - 📫 You can reach me through my **[e-mail](mailto:marcosmsansao@gmail.com)**
 - ⚡ Fun fact: **I ❤️️ ☕ + 🎮**
 
